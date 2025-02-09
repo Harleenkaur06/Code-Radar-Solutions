@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&a);
     if (a>=90){
         printf("A");
-    }else if(a<90){
+    }else if(80<=a<90){
         printf("B");
     }
     else if(70<=a<80){
