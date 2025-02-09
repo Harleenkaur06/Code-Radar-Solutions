@@ -7,9 +7,11 @@ int main(){
         printf("A");
     }else if(a<90){
         printf("B");
-    }else if(70<=a<80){
+    }
+    else if(70<=a<80){
         printf("C");
-    }else if(60<=a<70){
+    }
+    else if(60<=a<70){
         printf("D");
     }else{
         printf("E");
