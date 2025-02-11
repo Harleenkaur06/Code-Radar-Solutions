@@ -8,7 +8,7 @@ int main(){
     }else if(80<=a && a<90){
         printf("B");
     }
-    else if(70<=a &7 a<80){
+    else if(70<=a && a<80){
         printf("C");
     }
     else if(60<=a && a<70){
