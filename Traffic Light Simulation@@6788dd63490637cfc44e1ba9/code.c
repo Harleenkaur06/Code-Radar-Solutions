@@ -1,5 +1,5 @@
 // Your code here...
-#include<stdkio.h>
+#include<stdio.h>
 int main(){
     char a;
     scanf("%c",&a);
