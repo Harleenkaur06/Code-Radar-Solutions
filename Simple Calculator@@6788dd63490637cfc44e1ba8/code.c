@@ -11,7 +11,7 @@ int main(){
         printf("%.0f",a-b);
     }else if(c=='*'){
         printf("%.0f",a*b);
-    }else if(c=='/'){
+    }else if(c=='/' && b=!0){
         printf("%.0f",a/b);
     }else{
         printf("error");
