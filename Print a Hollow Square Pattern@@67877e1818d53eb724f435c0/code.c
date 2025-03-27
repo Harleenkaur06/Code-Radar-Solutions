@@ -8,6 +8,8 @@ int main(){
             if(j==1 || j==a || i==1||i==a){
                 printf("*");
 
+            }else{
+                printf(" ")
             }
       
         }
